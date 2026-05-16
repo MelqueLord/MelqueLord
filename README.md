@@ -32,15 +32,15 @@ Backend-focused Software Engineer building scalable and resilient systems with .
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MelqueLord)
 
----
-
 ### ⚡ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MelqueLord&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelqueLord&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelqueLord&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelqueLord&layout=compact&theme=tokyonight)
 
----
 
 ### 🚀 Current Focus
 
